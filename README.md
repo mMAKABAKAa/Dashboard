@@ -2,6 +2,8 @@
 
 This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project is designed to provide a comprehensive overview of a shop's sales information through an intuitive and fully responsive interface.
 
+![dashboard view](./dashboard.png "dashboard view")
+
 ## Project Overview
 
 This admin dashboard is built using React and showcases real-time data visualization of a shop's operational metrics. It's designed to be fully responsive, ensuring an optimal viewing experience across a wide range of devices.
